@@ -39,7 +39,7 @@ To learn about the dependencies required to run this project as well as how to s
 
 * You will need to use a custom network, and include the chain ID, and use ETH as the currency.
 
-![MyCrypto](Images/custom-node.png)
+![MyCrypto](Additional-Images/custom-node.png)
 
 * Import the keystore file from the node1/keystore directory into MyCrypto. This will import the private key.
 
