@@ -1,9 +1,5 @@
 # Blockchain Installation Guide
 
-In this Unit, you will use some software tools and utilities to interact with blockchains and to create your very own blockchain from scratch.
-
-Please follow this guide after starting Unit 18 to be able to follow all the activities and homework assignments.
-
 **Important Note:** Windows users **MUST** use `git-bash` and not the default Windows command prompt when you are requested to open the terminal window to execute commands.
 
 ## Installing MyCrypto Desktop App
